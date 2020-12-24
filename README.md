@@ -9,7 +9,7 @@
 
 - 📫 How to reach me? **israel.nunes.leite@gmail.com**
 
-- 🎂 Fun fact? Well: **The Cake?! Well... It's a lie.**
+- 🎂 Fun fact? **The Cake?! Well... It's a lie.**
 
 ### Stay in touch:
 
