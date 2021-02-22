@@ -3,13 +3,14 @@
 
 ### About me:
 
-- 🔭 Personal project: [Monokai Dark Green](https://github.com/AlvaroIsrael/monokai-dark-green)
+- 🔭 Personal project: [Monokai Dark Green](https://github.com/AlvaroIsrael/monokai-dark-green),
+  [Go Barber App](https://github.com/AlvaroIsrael/gobarber-app)
 
 - 🌱 I’m currently learning: **React**
 
 - 📫 How to reach me? **israel.nunes.leite@gmail.com**
 
-- 🎂 Fun fact? **The Cake?! Well... It's a lie.**
+- 🎂 Fun fact: **The Cake?! Well... It's a lie.**
 
 ### Stay in touch:
 
