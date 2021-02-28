@@ -64,11 +64,4 @@ export default Profile;
 ![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=Visual%20Studio%20Code&logoColor=007ACC)
 ![Xcode](https://img.shields.io/badge/-Xcode-000?&logo=xcode&logoColor=1575F9)
 
-  <style>
-    .waves {
-      width: 100%;
-      height: 300px;
-    }
-  </style>
-
-<img class='waves' src="https://github.com/AlvaroIsrael/AlvaroIsrael/blob/main/img/bottom_waves.svg" alt="Bottom waves" />
+<img width='1280px' height='640px' src="https://github.com/AlvaroIsrael/AlvaroIsrael/blob/main/img/bottom_waves.svg" alt="Bottom waves" />
