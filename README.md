@@ -1,5 +1,16 @@
 <h1 align="center">Hi 👋, I'm Alvaro Israel</h1>
-<h3 align="center">A passionate developer from Brazil!</h3>
+
+```tsx
+import React from 'react';
+
+const Profile: React.FC = () => {
+  return (
+    <h3>A passionate developer from Brazil!</h3>    
+  );
+};
+
+export default Profile;
+```
 
 ### About me:
 
