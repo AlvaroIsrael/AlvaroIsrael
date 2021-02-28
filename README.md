@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alvaro Israel</h1>
 
-<img width='1280px' src="https://github.com/AlvaroIsrael/AlvaroIsrael/blob/main/img/top_waves.svg" alt="Bottom waves" />
-
 ```tsx
 import React from 'react';
 
@@ -66,4 +64,4 @@ export default Profile;
 ![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=Visual%20Studio%20Code&logoColor=007ACC)
 ![Xcode](https://img.shields.io/badge/-Xcode-000?&logo=xcode&logoColor=1575F9)
 
-<img width='1280px' src="https://github.com/AlvaroIsrael/AlvaroIsrael/blob/main/img/bottom_waves.svg" alt="Bottom waves" />
+<img width='1280px' height='200px' src="https://github.com/AlvaroIsrael/AlvaroIsrael/blob/main/img/bottom_waves.svg" alt="Bottom waves" />
