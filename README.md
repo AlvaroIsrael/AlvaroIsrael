@@ -52,3 +52,7 @@
 ![WebStorm](https://img.shields.io/badge/-WebStorm-000?&logo=Webstorm&logoColor=179EDC)
 ![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=Visual%20Studio%20Code&logoColor=007ACC)
 ![Xcode](https://img.shields.io/badge/-Xcode-000?&logo=xcode&logoColor=1575F9)
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <path fill="#a6e22e" fill-opacity="1" d="M0,128L34.3,138.7C68.6,149,137,171,206,197.3C274.3,224,343,256,411,261.3C480,267,549,245,617,218.7C685.7,192,754,160,823,165.3C891.4,171,960,213,1029,218.7C1097.1,224,1166,192,1234,154.7C1302.9,117,1371,75,1406,53.3L1440,32L1440,320L1405.7,320C1371.4,320,1303,320,1234,320C1165.7,320,1097,320,1029,320C960,320,891,320,823,320C754.3,320,686,320,617,320C548.6,320,480,320,411,320C342.9,320,274,320,206,320C137.1,320,69,320,34,320L0,320Z"></path>
+</svg>
