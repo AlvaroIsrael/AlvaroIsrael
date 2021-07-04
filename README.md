@@ -20,32 +20,9 @@ export default Profile;
 - 🌱 I’m currently learning: **React**
 
 - 📫 How to reach me? **israel.nunes.leite@gmail.com**
+  or **[LinkedIn](https://www.linkedin.com/in/alvaroisraeldesenvolvedor/)**
 
 - 🎂 Fun fact: **The Cake?! Well... It's a lie.**
-
-### Stay in touch:
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0077B5)](https://linkedin.com/in/alvaroisraeldesenvolvedor)
-[![CodeSandbox](https://img.shields.io/badge/-CodeSandbox-000?&logo=CodeSandbox&logoColor=ffffff)](https://codesandbox.com/alvaro%20israel%20nunes%20leite)
-
-### Languages:
-
-![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5&logoColor=E34F26)
-![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=1572B6)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)](https://github.com/AlvaroIsrael?tab=repositories&q=&type=&language=typescript)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)](https://github.com/AlvaroIsrael?tab=repositories&q=&type=&language=javascript)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=B62829)
-![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin&logoColor=B62829)
-![C%23](https://img.shields.io/badge/-C%23-000?&logo=C%20sharp&logoColor=68217A)
-
-### Databases:
-
-<img align='right' width='300' height='327' src='https://raw.githubusercontent.com/AlvaroIsrael/AlvaroIsrael/main/assets/avatar.png' alt='Alvaro Israel Nunes Leite'>
-
-![SqlServer](https://img.shields.io/badge/-SqlServer-000?&logo=Microsoft%20SQL%20Server&logoColor=CC2927)
-![MySql](https://img.shields.io/badge/-MySql-000?&logo=MySQL&logoColor=4479A1)
-![PostgreSql](https://img.shields.io/badge/-PostgreSql-000?&logo=postgresql&logoColor=336791)
-![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=sqlite&logoColor=003B57)
 
 ### Technologies:
 
@@ -59,9 +36,33 @@ export default Profile;
 ![Azure](https://img.shields.io/badge/-Azure-000?&logo=microsoft%20azure&logoColor=0089D6)
 ![Gradle](https://img.shields.io/badge/-Gradle-000?&logo=gradle&logoColor=02303A)
 
+### Languages:
+
+![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=1572B6)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)](https://github.com/AlvaroIsrael?tab=repositories&q=&type=&language=typescript)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)](https://github.com/AlvaroIsrael?tab=repositories&q=&type=&language=javascript)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=B62829)
+![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin&logoColor=B62829)
+![C%23](https://img.shields.io/badge/-C%23-000?&logo=C%20sharp&logoColor=68217A)
+
 ### IDEs:
+
+<img align='right' width='300' height='327' src='https://raw.githubusercontent.com/AlvaroIsrael/AlvaroIsrael/main/assets/avatar.png' alt='Alvaro Israel Nunes Leite'>
 
 ![IntellijIDEA](https://img.shields.io/badge/-Intellij%20IDEA-000?&logo=Webstorm&logoColor=FC444F)
 ![WebStorm](https://img.shields.io/badge/-WebStorm-000?&logo=Webstorm&logoColor=179EDC)
 ![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=Visual%20Studio%20Code&logoColor=007ACC)
 ![Xcode](https://img.shields.io/badge/-Xcode-000?&logo=xcode&logoColor=1575F9)
+
+### Databases:
+
+![SqlServer](https://img.shields.io/badge/-SqlServer-000?&logo=Microsoft%20SQL%20Server&logoColor=CC2927)
+![MySql](https://img.shields.io/badge/-MySql-000?&logo=MySQL&logoColor=4479A1)
+![PostgreSql](https://img.shields.io/badge/-PostgreSql-000?&logo=postgresql&logoColor=336791)
+![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=sqlite&logoColor=003B57)
+
+### Stay in touch:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0077B5)](https://linkedin.com/in/alvaroisraeldesenvolvedor)
+[![CodeSandbox](https://img.shields.io/badge/-CodeSandbox-000?&logo=CodeSandbox&logoColor=ffffff)](https://codesandbox.com/alvaro%20israel%20nunes%20leite)
