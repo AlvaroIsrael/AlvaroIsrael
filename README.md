@@ -2,7 +2,7 @@
 
 <table>
 <tr>
-  <th align='left' width='100%'>
+  <th align='left'>
 
 ```tsx
 import React from 'react';
