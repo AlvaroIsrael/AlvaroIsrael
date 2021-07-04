@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alvaro Israel</h1>
 
-<table>
-<tr>
-  <th align='left'>
+<img align='right' width='300' height='327' src='./assets/avatar.png' alt='Alvaro Israel Nunes Leite'>
 
 ```tsx
 import React from 'react';
@@ -15,13 +13,6 @@ const Profile: React.FC = () => {
 
 export default Profile;
 ```
-
-  </th>
-  <th>
-    <img align='right' width='300' height='327' src='./assets/avatar.png' alt='Alvaro Israel Nunes Leite'>
-  </th>
-</tr>
-</table>
 
 ### About me:
 
