@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alvaro Israel</h1>
-
-<img align='right' width='300' height='327' src='./assets/avatar.png' alt='Alvaro Israel Nunes Leite'>
+<h1 align='center'>Greetings!!! I'm Alvaro Israel 👍🏻</h1>
 
 ```tsx
 import React from 'react';
@@ -41,6 +39,8 @@ export default Profile;
 ![C%23](https://img.shields.io/badge/-C%23-000?&logo=C%20sharp&logoColor=68217A)
 
 ### Databases:
+
+<img align='right' width='300' height='327' src='https://raw.githubusercontent.com/AlvaroIsrael/AlvaroIsrael/main/assets/avatar.png' alt='Alvaro Israel Nunes Leite'>
 
 ![SqlServer](https://img.shields.io/badge/-SqlServer-000?&logo=Microsoft%20SQL%20Server&logoColor=CC2927)
 ![MySql](https://img.shields.io/badge/-MySql-000?&logo=MySQL&logoColor=4479A1)
