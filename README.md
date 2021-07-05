@@ -1,6 +1,6 @@
 <h1 align='center'>Greetings!!! I'm Alvaro Israel 👍🏻</h1>
 
-<img align='right' width='183' height='200' src='https://raw.githubusercontent.com/AlvaroIsrael/AlvaroIsrael/main/assets/avatar.png' alt='Alvaro Israel Nunes Leite'>
+<img align='right' width='174' height='190' src='https://raw.githubusercontent.com/AlvaroIsrael/AlvaroIsrael/main/assets/avatar.png' alt='Alvaro Israel Nunes Leite'>
 
 ### About me:
 
