@@ -1,16 +1,6 @@
 <h1 align='center'>Greetings!!! I'm Alvaro Israel 👍🏻</h1>
 
-```tsx
-import React from 'react';
-
-const Profile: React.FC = () => {
-  return (
-    <h3>A passionate developer from Brazil!</h3>
-  );
-};
-
-export default Profile;
-```
+<img align='right' width='183' height='200' src='https://raw.githubusercontent.com/AlvaroIsrael/AlvaroIsrael/main/assets/avatar.png' alt='Alvaro Israel Nunes Leite'>
 
 ### About me:
 
@@ -23,6 +13,18 @@ export default Profile;
   or **[LinkedIn](https://www.linkedin.com/in/alvaroisraeldesenvolvedor/)**
 
 - 🎂 Fun fact: **The Cake?! Well... It's a lie.**
+
+```tsx
+import React from 'react';
+
+const Profile: React.FC = () => {
+  return (
+    <h3>A passionate developer from Brazil!</h3>
+  );
+};
+
+export default Profile;
+```
 
 ### Technologies:
 
@@ -47,8 +49,6 @@ export default Profile;
 ![C%23](https://img.shields.io/badge/-C%23-000?&logo=C%20sharp&logoColor=68217A)
 
 ### IDEs:
-
-<img align='right' width='300' height='327' src='https://raw.githubusercontent.com/AlvaroIsrael/AlvaroIsrael/main/assets/avatar.png' alt='Alvaro Israel Nunes Leite'>
 
 ![IntellijIDEA](https://img.shields.io/badge/-Intellij%20IDEA-000?&logo=Webstorm&logoColor=FC444F)
 ![WebStorm](https://img.shields.io/badge/-WebStorm-000?&logo=Webstorm&logoColor=179EDC)
