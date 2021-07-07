@@ -1,10 +1,13 @@
-<h1 align='center'>Greetings!!! I'm Alvaro Israel 👍🏻</h1>
+<h1 align='center'>Greetings!!! I'm Alvaro Israel 🇧🇷</h1>
+
+<h5 align='center'>If you are here, please leave a ⭐️ at <a href='https://github.com/AlvaroIsrael/gobarber-app'>Go
+Barber App</a>! Show your support! 👍🏻</h6>
 
 <img align='right' width='174' height='190' src='https://raw.githubusercontent.com/AlvaroIsrael/AlvaroIsrael/main/assets/avatar.png' alt='Alvaro Israel Nunes Leite'>
 
 ### About me:
 
-- 🔭 Personal project: [Monokai Dark Green](https://github.com/AlvaroIsrael/monokai-dark-green),
+- 🔭 Personal projects: [Monokai Dark Green](https://github.com/AlvaroIsrael/monokai-dark-green),
   [Go Barber App](https://github.com/AlvaroIsrael/gobarber-app)
 
 - 🌱 I’m currently learning: **React**
@@ -37,6 +40,8 @@ export default Profile;
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
 ![Azure](https://img.shields.io/badge/-Azure-000?&logo=microsoft%20azure&logoColor=0089D6)
 ![Gradle](https://img.shields.io/badge/-Gradle-000?&logo=gradle&logoColor=02303A)
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=amazonaws&logoColor=FF9900)
+![Jira](https://img.shields.io/badge/-Jira-000?&logo=jirasoftware&logoColor=0052CC)
 
 ### Languages:
 
@@ -54,6 +59,7 @@ export default Profile;
 ![WebStorm](https://img.shields.io/badge/-WebStorm-000?&logo=Webstorm&logoColor=179EDC)
 ![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=Visual%20Studio%20Code&logoColor=007ACC)
 ![Xcode](https://img.shields.io/badge/-Xcode-000?&logo=xcode&logoColor=1575F9)
+![Eclipse](https://img.shields.io/badge/-Eclipse-000?&logo=eclipseide&logoColor=2C2255)
 
 ### Databases:
 
@@ -61,6 +67,7 @@ export default Profile;
 ![MySql](https://img.shields.io/badge/-MySql-000?&logo=MySQL&logoColor=4479A1)
 ![PostgreSql](https://img.shields.io/badge/-PostgreSql-000?&logo=postgresql&logoColor=336791)
 ![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=sqlite&logoColor=003B57)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb&logoColor=47A248)
 
 ### Stay in touch:
 
