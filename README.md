@@ -10,7 +10,7 @@ Barber App</a>! Show your support! 👍🏻</h6>
 - 🔭 Personal projects: [Monokai Dark Green](https://github.com/AlvaroIsrael/monokai-dark-green),
   [Go Barber App](https://github.com/AlvaroIsrael/gobarber-app)
 
-- 🌱 I’m currently learning: **React**
+- 🌱 I’m currently learning: **[GitHub Copilot](https://github.com/github/copilot-preview)**
 
 - 📫 How to reach me? **israel.nunes.leite@gmail.com**
   or **[LinkedIn](https://www.linkedin.com/in/alvaroisraeldesenvolvedor/)**
