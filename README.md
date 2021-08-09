@@ -5,7 +5,7 @@ Barber App</a>! Show your support! 👍🏻</h6>
 
 <img align='right' width='174' height='190' src='https://raw.githubusercontent.com/AlvaroIsrael/AlvaroIsrael/main/assets/avatar.png' alt='Alvaro Israel Nunes Leite'>
 
-**About me:**
+###About me:
 
 - 🔭 Personal projects: [Monokai Dark Green](https://github.com/AlvaroIsrael/monokai-dark-green),
   [Go Barber App](https://github.com/AlvaroIsrael/gobarber-app)
