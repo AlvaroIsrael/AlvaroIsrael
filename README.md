@@ -8,12 +8,12 @@ Barber App</a>! Show your support! 👍🏻</h6>
 ### About me:
 
 - 🔭 Personal projects: [Monokai Dark Green](https://github.com/AlvaroIsrael/monokai-dark-green),
-  [Go Barber App](https://github.com/AlvaroIsrael/gobarber-app)
+  [Go Barber App](https://github.com/AlvaroIsrael/gobarber-app), [Ig News App](https://github.com/AlvaroIsrael/ignews-app)
 
-- 🌱 I’m currently learning: **[GitHub Copilot](https://github.com/github/copilot-preview)**
+- 🌱 I’m currently learning: **[Next.js](https://nextjs.org)**
 
 - 📫 How to reach me? **israel.nunes.leite@gmail.com**
-  or **[LinkedIn](https://www.linkedin.com/in/alvaroisraeldesenvolvedor/)**
+  or **[LinkedIn](https://www.linkedin.com/in/alvaroisraeldesenvolvedor)**
 
 - 🎂 Fun fact: **The Cake?! Well... It's a lie.**
 
@@ -33,6 +33,7 @@ export default Profile;
 
 ![Node.js](https://img.shields.io/badge/-Node-000?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Next](https://img.shields.io/badge/-Next-000?&logo=Next.js&logoColor=ffffff)
 ![Jest](https://img.shields.io/badge/-Jest-000?&logo=Jest&logoColor=C21325)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git&logoColor=F05032)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
